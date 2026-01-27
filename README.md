@@ -26,3 +26,15 @@ Click `ML_Midterms.ipynb` to preview directly on GitHub.
    ```bash
    git clone https://github.com/<your-username>/knn-vs-naive-bayes-classifiers.git
    cd knn-vs-naive-bayes-classifiers
+
+2. Install common dependencies:
+pip install numpy pandas scikit-learn matplotlib
+
+3. Start Jupyter and open the notebook:
+jupyter notebook
+
+4. Open ML_Midterms.ipynb and run all cells.
+
+## Notes
+- This repo is meant as a coursework/portfolio artifact: notebook + report.
+- If your notebook expects datasets to be downloaded or paths to be set, update the file paths in the notebook accordingly.
